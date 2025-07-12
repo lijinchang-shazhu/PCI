@@ -1,6 +1,7 @@
 # 🚀Potential customer identification based on machine learning algorithms
 ## technology
 - python 3.8
+- sklearn
 - numpy
 - scipy
 - pandas
